@@ -1,0 +1,11 @@
+.likeicon {
+    color:#fc0808;
+}
+
+.likeicon-user:hover {
+    cursor: pointer;
+}
+
+.green-button {
+    background-color: #6ce08b;
+}

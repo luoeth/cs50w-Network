@@ -2,7 +2,7 @@
 
 Design a Twitter-like social network website for making posts and following users.
 
-<img https://cs50.harvard.edu/web/2020/projects/4/images/network.png>
+<img src=https://cs50.harvard.edu/web/2020/projects/4/images/network.png>
 
 # Getting Started
 1. Download the distribution code from https://cdn.cs50.net/web/2020/spring/projects/4/network.zip and unzip it.
